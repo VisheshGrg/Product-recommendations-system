@@ -1,0 +1,47 @@
+/* Add styles for the search form */
+.search-form {
+    display: flex;
+    align-items: center; /* Vertically center the input and button */
+    margin: 20px 0;
+    padding: 1px;
+    background-color: #f7f7f7; /* Light gray background */
+    border-radius: 8px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    margin: 0px 100px;
+    flex-direction: column;
+    background-color: transparent;
+  }
+  
+  .searchbar{
+    display: flex;
+    flex-direction: row;
+  }
+
+  .search-form input {
+    flex-grow: 1; /* Expand the input to fill available space */
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    outline: none;
+    display: inline-block;
+  }
+  
+  .search-form button {
+    display: inline-block;
+    background-color: #4caf50; /* Green button */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin-left: 10px;
+    cursor: pointer;
+    font-size: 16px;
+    outline: none;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  .search-form button:hover {
+    background-color: #45a049; /* Darker green on hover */
+  }
+  

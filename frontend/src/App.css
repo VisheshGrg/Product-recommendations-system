@@ -1,0 +1,55 @@
+.App {
+  width: 100vw;
+  min-height: 100vh;
+  text-align: center;
+  background-image: url('');
+  background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)),
+    url("https://images.unsplash.com/photo-1499028344343-cd173ffc68a9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGZvb2R8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.search-form {
+  margin: 20px 0;
+}
+
+.form-container{
+  width: max-content;
+
+}
+
+.dish-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.dish-card {
+  /* border: 1px solid #ccc; */
+  background-color: rgba(173, 181, 189, 0.2);
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px;
+  width: 250px;
+  text-align: center;
+}
+
+.dish-card img {
+  max-width: 100%;
+  height: auto;
+}
+
+h1 {
+  margin-bottom: 10px;
+}
+
+h2 {
+  margin: 20px 0;
+}
+
+.flipkart-head{
+  background-color: palevioletred;
+  color: #ced4da;
+}
