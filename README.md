@@ -1,6 +1,6 @@
 # Dataset links
-RAW_interactions = ![links](https://drive.google.com/file/d/1_498aEmrzBotvlaECwSUetTYAsnrqQ42/view?usp=drive_link)
-RAW_recipes = ![links](https://drive.google.com/file/d/1ykh_Pig9sajdKHg-OPJO7IfaZweeFEjr/view?usp=drive_link)
+RAW_interactions = [links](https://drive.google.com/file/d/1_498aEmrzBotvlaECwSUetTYAsnrqQ42/view?usp=drive_link)
+RAW_recipes = [links](https://drive.google.com/file/d/1ykh_Pig9sajdKHg-OPJO7IfaZweeFEjr/view?usp=drive_link)
 
 # Product-recommendations-system
 
