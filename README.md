@@ -1,6 +1,6 @@
 # Product-recommendations-system
 
-![image]([https://github.com/VisheshGrg/Product-recommendations-system/blob/main/web.png](https://github.com/VisheshGrg/Product-recommendations-system/blob/level-2/Screenshot%20(187).png))
+![image](https://github.com/VisheshGrg/Product-recommendations-system/blob/level-2/Screenshot%20(187).png)
 ![images](https://github.com/VisheshGrg/Product-recommendations-system/blob/level-2/Screenshot%20(188).png)
 ![images](https://github.com/VisheshGrg/Product-recommendations-system/blob/level-2/Screenshot%20(189).png)
 
