@@ -1,6 +1,8 @@
 # Product-recommendations-system
 
-![image](https://github.com/VisheshGrg/Product-recommendations-system/blob/main/web.png)
+![image]([https://github.com/VisheshGrg/Product-recommendations-system/blob/main/web.png](https://github.com/VisheshGrg/Product-recommendations-system/blob/level-2/Screenshot%20(187).png))
+![images](https://github.com/VisheshGrg/Product-recommendations-system/blob/level-2/Screenshot%20(188).png)
+![images](https://github.com/VisheshGrg/Product-recommendations-system/blob/level-2/Screenshot%20(189).png)
 
 
 
@@ -26,7 +28,7 @@
 
 # USE - CASE DIAGRAM
 
-
+![images](https://github.com/VisheshGrg/Product-recommendations-system/blob/level-2/Screenshot%20from%202023-08-19%2016-12-50.png)
 
 
 
